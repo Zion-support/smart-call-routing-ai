@@ -1,24 +1,13 @@
 # Smart Call Routing AI
 
-Intent-based call routing and queue optimization for support teams.
+Zion AI App Network (Batch 100 — Comms & Contact Center AI). Intent-based call routing: IVR-free intent detection, queue balancing and VIP/SLA-aware escalation.
 
-Part of the **Zion AI App Network** — Batch 98 (Voice & Communications AI): 874+ free, open-source AI apps.
-
-- Live page: https://ziontechgroup.com/smart-call-routing-ai/
+- Live app: https://ziontechgroup.com/smart-call-routing-ai/
 - Free AI Discovery (always online, always free): https://ziontechgroup.com/discovery/
-- Network hub: https://ziontechgroup.com/zion-app-network/
-- Master catalog: https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md
+- Apps Network map: https://ziontechgroup.com/apps/network.html
+- All free apps: https://ziontechgroup.com/apps/
+- Batch 100 spotlight: https://ziontechgroup.com/apps/october-2026-batch100-comms.html
+- Related: https://ziontechgroup.com/call-intelligence-hub/ · https://ziontechgroup.com/meeting-intelligence-ai/ · https://ziontechgroup.com/voicemail-triage-ai/
+- Commercial: commercial@ziontechgroup.com
 
-## Features
-- Real-time intent detection from the first seconds of a call
-- Skills-based routing and queue rebalancing
-- Overflow and callback automation during spikes
-- Feeds outcomes to Call Intelligence Hub; receives escalations from Voicemail Triage AI
-
-## Related apps
-- [call-intelligence-hub](https://github.com/Zion-support/call-intelligence-hub)
-- [voicemail-triage-ai](https://github.com/Zion-support/voicemail-triage-ai)
-- [meeting-intelligence-ai](https://github.com/Zion-support/meeting-intelligence-ai)
-- [voice-agent-studio](https://github.com/Zion-support/voice-agent-studio)
-
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+Part of the Zion Tech Group free AI App Network — 870+ free, interlinked AI apps.
