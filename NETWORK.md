@@ -2,6 +2,11 @@
 
 Reviewed 8 October 2026. Routing ownership and escalation guidance plus a local pilot worksheet; not a verified telephone routing engine or CRM integration.
 
+## Choose, compare and test apps
+[English](https://ziontechgroup.com/apps/network-learning-paths.html) · [Português](https://ziontechgroup.com/pt/apps/network-learning-paths.html) · [Español](https://ziontechgroup.com/es/apps/network-learning-paths.html) · [Français](https://ziontechgroup.com/fr/apps/network-learning-paths.html) · [Deutsch](https://ziontechgroup.com/de/apps/network-learning-paths.html)
+
+Connect communications planning to [ROI Calculator](https://ziontechgroup.com/roi-calc/), [FinOps Estimator](https://ziontechgroup.com/finops-estimator/), [Governance Checklist](https://ziontechgroup.com/ai-governance-checklist/) and [SLA Calculator](https://ziontechgroup.com/sla-calculator/). Define a baseline, owner, synthetic test case and stop rule. These links are planning paths, not verified integrations.
+
 ## Related apps and source
 [Smart Call Routing AI](https://ziontechgroup.com/smart-call-routing-ai/) · [source](https://github.com/Zion-support/smart-call-routing-ai)
 [Call Intelligence Hub](https://ziontechgroup.com/call-intelligence-hub/) · [source](https://github.com/Zion-support/call-intelligence-hub)
